@@ -1,0 +1,17 @@
+even(прил.) - чётнный
+odd(сущ.) number - нечётное число
+odd(прил.) - нечётный
+continue - продолжать
+break - перерыв
+submit-представлять на рассмотрение
+custom build - индивидуальная сборка;
+checkout - проверить;
+offset - смещение
+
+deprecate - осуждать
+obsolete - устаревший
+
+week-неделя
+month-месяц
+
+translate - переводить

@@ -1,0 +1,75 @@
+
+fieldset-набор полей
+required-необходимый, обязательный
+search-поиск 
+range-диапазон
+scale - шкала
+placeholder-заполнитель
+autocomplete-автозаполнение
+overlay - наложение
+overflow - переполнение
+shape - форма
+hexagon - шестиугольник
+skew - перекос
+rect - прямой
+shadow - тень
+property - свойство
+
+SVG (Scalable Vector Graphics) - маштабируемая векторная графика
+PNG (portable network graphics) - портативная сетевая графика
+
+back - назад
+background - фон
+initial - исходный
+bottom - нижний
+scroll - прокрутка
+clip - обрезать
+outline - контур
+
+    border-image-source
+source - источник
+    border-image-slice
+slice - кусочек
+fill - заполнение
+
+    text-decoration
+line-through - линия, проходящая через.
+
+    box-sizing
+box-sizing: content-box; (по-умолчанию);
+box-sizing: border-box; изменяет алгоритм расчёта ширины, задаёт общую ширину. 
+
+    visibility - видимость
+visibility: hidden; (свойство - значение)
+hidden - скрытый;
+
+    position
+position: static;(по умолчанию);
+relative(прил.) - относительный;
+position: relative;(относительное позиционирование);
+
+box -коробка;
+layout - макет;
+gap - зазор;
+  column-gap - зазор между колонками;
+  row-gap - зазор между рядами;
+
+justify - объяснять, подтверждать, выравнивать;
+align(гл) - выравнять;
+
+grid - сетка;
+flow - поток;
+
+around(нар.) - вокруг;
+between(нар.) - между;
+repeat - повторить;
+huge - огромный;
+dense - плотный;
+
+container - 
+wrapper - обёртку;
+wrap(гл) - сварачивать;
+
+fit(гл) - соответствовать, приспосабливать;
+span - охватывать;
+wide(прил.) - широкий;
