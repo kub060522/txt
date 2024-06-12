@@ -50,14 +50,12 @@ position: relative;(относительное позиционирование)
 
 box -коробка;
 layout - макет;
-gap - зазор;
-  column-gap - зазор между колонками;
-  row-gap - зазор между рядами;
 
 justify - объяснять, подтверждать, выравнивать;
 align(гл) - выравнять;
 
 grid - сетка;
+flex - гибкий;
 flow - поток;
 
 around(нар.) - вокруг;
@@ -73,3 +71,53 @@ wrap(гл) - сварачивать;
 fit(гл) - соответствовать, приспосабливать;
 span - охватывать;
 wide(прил.) - широкий;
+width - ширина; (по умолчанию задаёт содержимого content);
+
+          grid
+display: grid;
+gap - зазор;
+column-gap - зазор между колонками;
+row-gap - зазор между рядами;
+.grid-container {
+  grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+          flex
+display: flex;
+
+justify-content
+  flex-start;
+  flex-end;
+  center;
+  space-around;
+  space-between;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
